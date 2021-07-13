@@ -3,4 +3,4 @@ YUDHA RESOLUSI
 - Belajar JavaScript
 - Belajar Design
 - Membuat project Android
-- Belajar web design
+- Membuat dokumentasi project Android
