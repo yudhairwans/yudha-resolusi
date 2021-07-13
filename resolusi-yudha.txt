@@ -2,3 +2,5 @@ YUDHA RESOLUSI
 - Belajar membuat aplikasi android
 - Belajar JavaScript
 - Belajar Design
+- Membuat project Android
+- Belajar web design
